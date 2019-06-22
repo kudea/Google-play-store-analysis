@@ -63,3 +63,7 @@ If the seeds get balanced, then the sentiment lexicon is completed; otherwise, j
 ### Classifier using
 Decision Tree & Random Forest (details in Methods part)
 
+# Result
+<img width="479" alt="1" src="https://user-images.githubusercontent.com/51981236/59960508-d6071000-94fb-11e9-8182-a5b1e51125a9.PNG">
+<img width="499" alt="2" src="https://user-images.githubusercontent.com/51981236/59960509-d99a9700-94fb-11e9-8e6e-e6a4fdb3e90f.PNG">
+
