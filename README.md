@@ -7,7 +7,7 @@ but also choose comments only from games.As for the classifier, I use Decision T
 and they are all tree-like models, which is much better to compare. 
 According to the result, Random Forest gets higher precision.
 ## Flow
-![image]("https://github.com/kudea/Google-play-store-analysis/blob/master/data_mining-google_play/Flow/Diagram.png")
+![image](https://github.com/kudea/Google-play-store-analysis/blob/master/data_mining-google_play/Flow/Diagram.png)
 ## Methods
 ### A. Web crawler:
 a. Find html tag
